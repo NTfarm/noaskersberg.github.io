@@ -1,0 +1,16 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <title>No Body Asked</title>
+    </head>
+        <body>
+           <h1>Welcome To <strong>No'AskersBerg</strong></h1>
+           <p>The Best Minecraft Nation Ever*</p>
+           <h4>No'AskersBerg Anthem Below</h4> 
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/icB8c2oki7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           <img src="banner.PNG" alt="No'AskersBerg Flag">
+           </body>
+        
+
+    <footer><h6>*When Compared To Dinosaur Tribe</h6></footer>
+</html>
